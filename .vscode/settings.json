@@ -1,0 +1,10 @@
+{
+  "windowColors.🌈 BaseColor": "#0069ab",
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f",
+    "activityBar.background": "#0069AB",
+    "titleBar.activeBackground": "#0089DE",
+    "titleBar.activeForeground": "#F6FBFF"
+  }
+}
